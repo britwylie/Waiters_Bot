@@ -1,0 +1,8 @@
+{
+"name": "waiters-bot",
+"version": "0.0.1",
+"description": "Test for waiters bot in blacker discord",
+"main": "bot.js",
+"author": "Brit Wylie",
+"dependencies": {}
+}
